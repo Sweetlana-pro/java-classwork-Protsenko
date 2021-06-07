@@ -103,3 +103,4 @@ dist
 # TernJS port file
 .tern-port
 /HelloWorld/arrays/target/
+/HelloWorld/Factorizer/target/
